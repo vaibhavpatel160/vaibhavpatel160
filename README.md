@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhavpatel160
+- 👋 Hi, I’m vaibhav patel.
 - 👀 I’m interested in solving new problem using machine learning.
 - 🌱 I’m currently pursuing my Masters in Data Science at Universit at Buffalo.
 - 💞️ I’m looking to collaborate on applied Machine learning.
