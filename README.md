@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vaibhav patel.
 - 👀 I’m interested in solving new problem using machine learning.
-- 🌱 I’m currently pursuing my Masters in Data Science at Universit at Buffalo.
+- 🌱 I’m did my Masters in Data Science at Universit at Buffalo.
 - 💞️ I’m looking to collaborate on applied Machine learning.
 - 📫 How to reach me:vaibhavpatel1699@gmail.com or +1 716 580 2469.
 
